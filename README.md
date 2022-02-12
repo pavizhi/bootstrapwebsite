@@ -605,11 +605,11 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-### Home Page:
+### HOME PAGE:
 ![output](./hp.png)
-## Gallery Page:
+## GALLERY PAGE:
 ![output](./gap.png)
-## About Us:
+## ABOUT US:
 ![output](./ab.png)
 
 ## Result:
