@@ -35,6 +35,8 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 ```
+## HOME PAGE:
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -218,6 +220,11 @@ Publish the website in the given URL.
 
 </body>
 </html>
+
+
+## GALLERY PAGE:
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -418,6 +425,7 @@ Publish the website in the given URL.
 
 </body>
 </html>
+## ABOUT US:
 
 <!DOCTYPE html>
 <html lang="en">
